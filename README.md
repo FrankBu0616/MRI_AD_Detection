@@ -15,7 +15,8 @@ We support three models: alexnet, resnet18, and densenet121.
 To run code with our autoslicer approach, please run files in AutoSlicer folder directly.
 We provide files called auto_slice_ResNet.py and auto_slice_DenseNet.py, which can be run directly with default values.
 Alexnet is very similar to DenseNet. One can just change the pretrained model in auto_slice_DenseNet.py from densenet121 to alexnet to train autoslicer with alexnet. 
-We are still exploring and improving autoslicer, so we contain the code in a separate folder.
+
+We are still actively searching for creative ways to improve the performance of autoslicer, so we contain the code in a separate folder.
 
 ### Data
 
